@@ -27,11 +27,7 @@ This project is for Chronic Kidney Disease (CKD) diagnosis using machine learnin
 
 ## Model Description
 
-The model used for CKD diagnosis is a Logistic Regression model. It is trained on the UCI Machine Learning Repository CKD dataset.
-
-## Dataset
-
-The dataset used in this project is `new_model.csv`, which is a modified version of the [UCI Machine Learning Repository CKD dataset](https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease).
+The model used for CKD diagnosis is a Feed Forward Neural Network model. It is trained on the CKD dataset.
 
 ## License
 
